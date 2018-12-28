@@ -1,2 +1,1 @@
-# Meme-generator
-Meme Generator app using React.js and JavaScript.
+Meme Generator App using React.js and JS.
